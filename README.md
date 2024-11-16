@@ -7,4 +7,7 @@
 - ⚡ Fun fact: ...
 
 [![An image of @sarthakjalan05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarthakjalan05)](https://holopin.io/@sarthakjalan05
-[https://api.badgr.io/public/assertions/wUdsglGLTeWlIUNarSHJDw?identity__email=sarthakjalan06%40gmail.com
+## GSSOC-24(Extd) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://api.badgr.io/public/assertions/wUdsglGLTeWlIUNarSHJDw?identity__email=sarthakjalan06%40gmail.com" width="100px" height="100px" />
+</div>
