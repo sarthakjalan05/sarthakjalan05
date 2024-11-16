@@ -7,4 +7,4 @@
 - ⚡ Fun fact: ...
 
 [![An image of @sarthakjalan05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarthakjalan05)](https://holopin.io/@sarthakjalan05
-https://api.badgr.io/public/assertions/wUdsglGLTeWlIUNarSHJDw?identity__email=sarthakjalan06%40gmail.com
+[https://api.badgr.io/public/assertions/wUdsglGLTeWlIUNarSHJDw?identity__email=sarthakjalan06%40gmail.com
