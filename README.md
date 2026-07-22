@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarthakjalan05
-- 👀 I’m interested in ...Coding and Software Projects
+- 👀 I’m interested in ...AI/ML Cloud and Software Projects
 - 🌱 I’m currently learning ...Java and Web-Dev
 - 💞️ I’m looking to collaborate on ...Projects and repos aligning with my interests
 - 📫 How to reach me ...
