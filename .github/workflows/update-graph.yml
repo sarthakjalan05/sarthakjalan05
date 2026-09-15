@@ -1,0 +1,27 @@
+name: Update Activity Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs automatically every 12 hours
+  workflow_dispatch: # Allows you to run it manually from the Actions tab
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grants permission to push the image to your repo
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch SVG from Vercel
+        # This downloads your exact custom image and saves it as a file
+        run: curl -L "https://github-readme-activity-graph-riee0gpt0-sarthak-jalans-projects.vercel.app/graph?username=sarthakjalan05&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" -o github-contribution-graph.svg
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-contribution-graph.svg
+          git commit -m "chore: update contribution graph" || echo "No changes to commit"
+          git push
