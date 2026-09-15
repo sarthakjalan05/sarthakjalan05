@@ -88,7 +88,7 @@ Computer Science student passionate about AI/ML, Full-Stack Development, and Clo
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakjalan05&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-seven-drab.vercel.app/graph?username=sarthakjalan05&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
@@ -101,4 +101,4 @@ Computer Science student passionate about AI/ML, Full-Stack Development, and Clo
 <p align="center"><i>⭐️ From <a href="https://github.com/sarthakjalan05">sarthakjalan05</a></i></p>
 
 
-[![An image of @sarthakjalan05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarthakjalan05)](https://holopin.io/@sarthakjalan05
+[![An image of @sarthakjalan05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarthakjalan05)](https://holopin.io/@sarthakjalan05)
