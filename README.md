@@ -102,8 +102,3 @@ Computer Science student passionate about AI/ML, Full-Stack Development, and Clo
 
 [![An image of @sarthakjalan05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarthakjalan05)](https://holopin.io/@sarthakjalan05)
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-riee0gpt0-sarthak-jalans-projects.vercel.app/graph?username=sarthakjalan05" alt="activity graph" />
-</p>
