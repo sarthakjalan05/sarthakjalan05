@@ -105,5 +105,5 @@ Computer Science student passionate about AI/ML, Full-Stack Development, and Clo
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://gitfut.com/sarthakjalan05" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-riee0gpt0-sarthak-jalans-projects.vercel.app/graph?username=sarthakjalan05" alt="activity graph" />
 </p>
