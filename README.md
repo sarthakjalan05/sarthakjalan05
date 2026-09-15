@@ -88,7 +88,7 @@ Computer Science student passionate about AI/ML, Full-Stack Development, and Clo
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-riee0gpt0-sarthak-jalans-projects.vercel.app/graph?username=sarthakjalan05&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-riee0gpt0-sarthak-jalans-projects.vercel.app/graph?username=sarthakjalan05&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true&v=1" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
