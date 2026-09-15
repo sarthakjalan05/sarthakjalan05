@@ -88,7 +88,7 @@ Computer Science student passionate about AI/ML, Full-Stack Development, and Clo
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/sarthakjalan05/sarthakjalan05/main/github-contribution-graph.sv" alt="activity graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/sarthakjalan05/sarthakjalan05/main/github-contribution-graph.svg" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
