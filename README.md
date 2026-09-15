@@ -88,7 +88,7 @@ Computer Science student passionate about AI/ML, Full-Stack Development, and Clo
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/sarthakjalan05/sarthakjalan05/main/github-contribution-graph.svg" alt="activity graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/sarthakjalan05/sarthakjalan05/main/github-contribution-graph.sv" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
@@ -101,3 +101,9 @@ Computer Science student passionate about AI/ML, Full-Stack Development, and Clo
 <p align="center"><i>⭐️ From <a href="https://github.com/sarthakjalan05">sarthakjalan05</a></i></p>
 
 [![An image of @sarthakjalan05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarthakjalan05)](https://holopin.io/@sarthakjalan05)
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://gitfut.com/sarthakjalan05" alt="activity graph" />
+</p>
